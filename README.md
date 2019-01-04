@@ -1,6 +1,6 @@
 # remote_acestream
 архив с пультом дистанционного управления и acestream для Orange Pi или armv7
-гитклон https://github.com/znachok88/remote_acestream.git
-CDremote_acestream
-чmodxinstall.sh
-/ втал.sh
+git clone https://github.com/znachok88/remote_acestream.git
+cd remote_acestream
+chmod x install.sh
+./install.sh
